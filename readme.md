@@ -31,7 +31,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habbits é um app para ajudar a rastrear os hábitos.
+O Habits é um app para ajudar a rastrear os hábitos.
+
+- [Visite o projeto online] (https://hidrocslato.github.io/nlw-setup/)
 
 ## 🔖 Layout
 
